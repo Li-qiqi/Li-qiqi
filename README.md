@@ -1,10 +1,7 @@
-### Hi there 👋
 
 <!--
 **Li-qiqi/Li-qiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,6 +12,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+  <a href="https://github.com/Li-qiqi"><img style="width='300px'" src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+  <a href="https://gitee.com/li-qiqi"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
+  <a href="https://me.csdn.net/qq_41833935"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
+</p>
+
+<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
+
+- 😄**后端** Java···
+- 😃**前端** HTML，CSS，JavaScript···
+- 😆**数据库** MySQL···
+- 😝**框架** SpringBoot···
+- 😛**其它** ···
+- 😧**都不精通**
 
 ### Github State
 
@@ -27,12 +39,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Li-qiqi/Li-qiqi.github.io">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Li-qiqi.github.io&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-
-
-|  公众号   | 掘金  |CSDN |简书|
-|  ----  | ----  | --- | --- |
-| [技术最TOP]() | [点我直达](https://www.baidu.com)|[点我直达](https://www.baidu.com)| [点我直达](https://www.baidu.com)|
-
 
 ### Languages and Tools:
 
