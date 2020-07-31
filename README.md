@@ -14,19 +14,13 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 <p align="center">
-  <a href="https://github.com/Li-qiqi"><img style="width='300px'" src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+  <a href="https://github.com/Li-qiqi"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/li-qiqi"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://me.csdn.net/qq_41833935"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
+<!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
 
-- 😄**后端** Java···
-- 😃**前端** HTML，CSS，JavaScript···
-- 😆**数据库** MySQL···
-- 😝**框架** SpringBoot···
-- 😛**其它** ···
-- 😧**都不精通**
 
 ### Github State
 
