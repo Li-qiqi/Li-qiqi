@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">Welcome to my GitHub</h2>
 <p align="center">
-  <a href="https://github.com/Li-qiqi"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github" width="60"></a>
-  <a href="https://gitee.com/li-qiqi"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee" width="60"></a>
-  <a href="https://me.csdn.net/qq_41833935"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn" width="60"></a>
+  <a href="https://github.com/Li-qiqi"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github" width="60" height="30"></a>
+  <a href="https://gitee.com/li-qiqi"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee" width="60" height="30"></a>
+  <a href="https://me.csdn.net/qq_41833935"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn" width="60" height="30"></a>
 </p>
 
 <!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
