@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:0 ...
 -->
 
-<h2 align="center">Welcome to my GitHub</h2>
+<h1 align="center">Welcome to my GitHub</h1>
 <p align="center">
   <a href="https://github.com/Li-qiqi"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github" width="60" height="30"></a>
   <a href="https://gitee.com/li-qiqi"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee" width="60" height="30"></a>
