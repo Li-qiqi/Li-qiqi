@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 </p>
 
 <img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="200">
-### Personal skills
+### Personal Skills
 
 ### Github State
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Li-qiqi&show_icons=true&title_color=00FFBF&icon_color=9A2EFE&text_color=00ff00&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Li-qiqi/Backend-Project">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Backend-Project&show_icons=true&title_color=2EFEF7&icon_color=0080FF&text_color=A9A9F5&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Backend-Project&show_icons=true&title_color=2EFEF7&icon_color=0080FF&text_color=CEECF5&bg_color=151515" />
 </a>
 
 <a href="https://github.com/Li-qiqi/Front-end-Project">
@@ -35,13 +35,12 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Li-qiqi/Learning-Notes">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Learning-Notes&show_icons=true&title_color=BF00FF&icon_color=00FFFF&text_color=CECEF6&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Learning-Notes&show_icons=true&title_color=BF00FF&icon_color=00FFFF&text_color=D8CEF6&bg_color=151515" />
 </a>
 
 <a href="https://github.com/Li-qiqi/Li-qiqi.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Li-qiqi.github.io&show_icons=true&title_color=FFFF00&icon_color=00FF00&text_color=ECF6CE&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Li-qiqi.github.io&show_icons=true&title_color=FFFF00&icon_color=00FF00&text_color=E3F6CE&bg_color=151515" />
 </a>
-
 
                                                                                      
                                                                    _                                  
