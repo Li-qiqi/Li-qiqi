@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://me.csdn.net/qq_41833935"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn" width="60" height="30"></a>
 </p>
 
-<!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="220">--!>
+<!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="220">-->
 
 ### Personal Skills
 
