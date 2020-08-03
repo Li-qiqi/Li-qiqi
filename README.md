@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Github State
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Li-qiqi&show_icons=true&title_color=FF0000&icon_color=9A2EFE&text_color=00ff00&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Li-qiqi&show_icons=true&title_color=FF8000&icon_color=9A2EFE&text_color=00ff00&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Li-qiqi/Backend-Project">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Backend-Project&show_icons=true&title_color=2EFEF7&icon_color=0080FF&text_color=CEECF5&bg_color=151515" />
