@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Li-qiqi&show_icons=true&title_color=00ff00&icon_color=9A2EFE&text_color=00ff00&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Li-qiqi/Backend-Project">
+<a href="https://github.com/Li-qiqi/BackendProject">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Backend-Project&show_icons=true&title_color=2EFEF7&icon_color=0080FF&text_color=CEECF5&bg_color=151515" />
 </a>
 
-<a href="https://github.com/Li-qiqi/Front-end-Project">
+<a href="https://github.com/Li-qiqi/FrontendProject">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Front-end-Project&show_icons=true&title_color=FF0080&icon_color=FF8000&text_color=F5A9BC&bg_color=151515" />
 </a>
 
-<a href="https://github.com/Li-qiqi/Learning-Notes">
+<a href="https://github.com/Li-qiqi/LearningNotes">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Li-qiqi&repo=Learning-Notes&show_icons=true&title_color=BF00FF&icon_color=00FFFF&text_color=D8CEF6&bg_color=151515" />
 </a>
 
