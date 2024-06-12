@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 ### Personal Skills
 
 <ul>
-  <li>😄 a</li>
-  <li>😄 b</li>
-  <li>😄 c</li>
+  <li> 有人说，程序员的世界只有0和1，我想说代码就像生活，总是充满了bug，那是他们没见过我电脑上的错误代码，那才是真正的五彩斑斓。</li>
+  <li> 记得有一次去面试，面试官问：“你毕业才三年，这五年工作经验是怎么来的？！”我回答：“加班。”</li>
 </ul>
 
 ### Github State
